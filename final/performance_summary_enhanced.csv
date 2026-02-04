@@ -1,0 +1,15 @@
+Type,Row,Model,Score,Diagnosis,Specialty,Publisher
+Unique Success,5,Gemini,4.0,Anti-IgLON5 disease.,Neurology,Springer
+Unique Success,46,GPT,3.0,Epileptic encephalopathy with continuous spike wave during sleep,Neurology,Springer
+Unique Success,93,GPT,2.5,Poor sleep hygiene with excessive time in bed.,"Psychology, Psychiatry, Geriatrics / Primary Care","Springer - A Clinical Casebook of Sleep Disorders in Women
+"
+Unique Failure,2,Grok,0.0,PAROXYSMAL HYPNOGENIC DYSKINESIA,Neurology,Springer
+Unique Failure,10,Grok,0.0,Psychophysiological Insomnia Central Nervous System Hypersomnia,Psychiatry/Neurology/Pulmonology,Springer
+Unique Failure,16,Deepseek,0.0,Severe CSA due to Chiari I malformation,Pulmonology ,Springer
+Unique Failure,17,Claude,0.0,"Circadian misalignment due to lack of light and dark cues, psychophysiologic
+ insomnia related to dermatologic disease",Psychiatry,Springer
+Unique Failure,30,Gemini,0.0,"Pierre Robin sequence S/P Mandibular Distraction Osteogenesis and repair of cleft
+palate with persistent of severe OSA.",Pulmonology ,Springer
+Unique Failure,48,Gemini,0.0,"Obstructive Sleep Apnea secondary to space occupying malignancy of the
+oropharynx.","ENT (Ear, Nose, and Throat / Otolaryngology)",Springer
+Unique Failure,59,Gemini,0.0,Chronic Severe Restless Legs Syndrome (RLS) with Comorbid Insomnia and Iron Deficiency,"Neurology, Physiotherapy",Springer
